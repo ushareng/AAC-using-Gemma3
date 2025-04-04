@@ -1,4 +1,4 @@
-# AAC tool for Nonverbal Autism using Gemma 3 (Keras ) and Gemini 2.5
+# AAC tool for Nonverbal Autism using Gemma 3 (Keras ) and Gemini 
 
 # Use Case
 AAC tools helps Nonverbal autistic individuals to communicate .
