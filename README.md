@@ -1,4 +1,7 @@
-# aac-gemma3
+# AAC tool for Nonverbal Autism using Gemma 3 (Keras ) and Gemini 2.5
+
+# Use Case
+AAC tools helps Nonverbal autistic individuals to communicate .
 
 # Setup 
 - Set the api key with ```export GOOGLE_API_KEY=<api_key>```
